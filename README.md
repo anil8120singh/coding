@@ -1,3 +1,3 @@
 # coding
-this is my git respository
-author -anil singh
+this is my git respository.
+Author -anil singh
